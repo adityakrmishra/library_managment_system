@@ -7,9 +7,6 @@ Welcome to the Library Management System project! This web-based application is 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -34,3 +31,16 @@ The Library Management System is a web-based application aimed at simplifying th
 - Express.js: Web framework for Node.js.
 - Body-parser: Middleware to parse incoming request bodies.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+Feel free to reach out for any inquiries or collaborations:
+
+Email: adityakumar.mishra3566@gmail.com
+
+LinkedIn: Aditya Kumar Mishra
+
+Business Mobile: 8434978269
+
+Thank you for checking out the Library Management System project!
